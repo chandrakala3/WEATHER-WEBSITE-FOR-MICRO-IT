@@ -13,5 +13,6 @@ Users enter a city name, and the app retrieves and presents weather data in a cl
 
 This project helps beginners understand core web development concepts such as API integration, DOM manipulation, and asynchronous JavaScript (fetch/async-await). It enhances front-end skills while solving a real-world use case.
 
-OUTPUT : 
+OUTPUT : ![Image](https://github.com/user-attachments/assets/353d831c-e045-4d54-b5df-1cac2547dda5)
+
 
